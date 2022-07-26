@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Brad",
+      "email": "brad.pitt@gmail.com",
+      "mobile": "77014567689",
+      "city": "Los-Angeles",
+      "company": "Miramax",
+      "photo": "https://sociotyping.com/photolibrary/upload/2018/12/27/20181227194052-ff42bbe5.jpg",
+      "group_id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Tom",
+      "email": "tom.cruise@gmail.com",
+      "mobile": "77017692345",
+      "city": "Boston",
+      "company": "Apple",
+      "photo": "https://media1.popsugar-assets.com/files/thumbor/8su-YMfzKmaONa2ODYaWx7dltHI/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2018/07/16/749/n/1922398/4c32bf875b4ccef29a4812.53698795_/i/Tom-Cruise.jpg",
+      "group_id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Morgan",
+      "email": "morgan.friman@gmail.com",
+      "mobile": "77016753452",
+      "city": "New-York",
+      "company": "Samsung",
+      "photo": "https://i1.sndcdn.com/avatars-000142058232-9tx0v5-t500x500.jpg",
+      "group_id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Tomas",
+      "email": "tomas.shelbi@gmail.com",
+      "mobile": "77019872356",
+      "city": "London",
+      "company": "Toshiba",
+      "photo": "https://i.pinimg.com/originals/9c/21/a0/9c21a02b567d0de56e5a9bf91ab05a10.jpg",
+      "group_id": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Программист"
+    },
+    {
+      "id": "2",
+      "name": "Актер"
+    },
+    {
+      "id": "3",
+      "name": "Пилот"
+    },
+    {
+      "id": "4",
+      "name": "Певец"
+    }
+  ]
+}
